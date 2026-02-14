@@ -12,7 +12,7 @@
     "@copilotkit/react-core": "1.9.2",
     "@copilotkit/react-textarea": "1.9.2",
     "@copilotkit/react-ui": "1.9.2",
-    "@copilotkit/runtime": "1.9.2",
+    "@copilotkit/runtime": "1.50.0",
     "@copilotkit/runtime-client-gql": "1.9.2",
     "@copilotkit/shared": "1.9.2",
     "@radix-ui/react-accordion": "^1.2.0",
